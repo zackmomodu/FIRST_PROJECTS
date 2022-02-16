@@ -8,4 +8,5 @@ void main(){
   print("cgpa");
   String cgpa = stdin.readLineSync();
   print("Hello $name, you graduated with $cgpa from the department of $department");
+  
 }
